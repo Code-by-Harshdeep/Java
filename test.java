@@ -1,8 +1,7 @@
 public class test {
     
     public static void main(String[] args) {
-        System.out.println("Java is working!");
-        System.out.println("Hello from VS Code.");
+        System.out.println("Hello World ");
         
         int a = 10;
         int b = 20;
