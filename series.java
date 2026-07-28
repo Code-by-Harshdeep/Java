@@ -13,6 +13,6 @@ public class series {
                 sum=sum+i;
             }
         }
-        System.out.println(sum);
+        System.out.println(sum);//will print the submation of series
     }
 }
